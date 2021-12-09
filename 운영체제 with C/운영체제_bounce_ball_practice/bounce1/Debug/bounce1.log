@@ -1,0 +1,6 @@
+﻿  bounce11.c
+C:\Users\LG\source\repos\bounce1\bounce1\bounce11.c(81,18): warning C4101: 'pcds' :참조되지 않은 지역 변수입니다.
+C:\Users\LG\source\repos\bounce1\bounce1\bounce11.c(236,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LG\source\repos\bounce1\bounce1\bounce11.c(237,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+C:\Users\LG\source\repos\bounce1\Debug\bounce1.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
