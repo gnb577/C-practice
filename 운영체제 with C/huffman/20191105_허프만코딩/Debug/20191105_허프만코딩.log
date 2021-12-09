@@ -1,0 +1,5 @@
+﻿  huffman_coding.c
+C:\Users\LG\source\repos\20191105_허프만코딩\20191105_허프만코딩\huffman_coding.c(48,17): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\LG\source\repos\20191105_허프만코딩\20191105_허프만코딩\huffman_coding.c(33,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+  20191105_허프만코딩.vcxproj -> C:\Users\LG\source\repos\20191105_허프만코딩\Debug\20191105_허프만코딩.exe
