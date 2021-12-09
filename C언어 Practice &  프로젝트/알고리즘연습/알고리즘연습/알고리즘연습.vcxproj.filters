@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="알고리즘시험대비.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘시험대비2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘그래프sll.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘시험대비dfs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘mst.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘시험대비djkstra.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘시험대비eightqueens.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘시험대비sudoku.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘시험대비dijkstra경로찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sudoku.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sudoku2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다이스트라알고리즘.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra경로찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra경로찾기연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습sudoku.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습dijkstra.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습dijkstra경로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습mst.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="보물찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문제적남자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dfsdfs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bfsbfs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="eightqueenseightqueens.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sudokusudoku.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstradijkstra.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="경로경로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문제적남자문제적남자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bst_dst1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다이스트라길찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="eightqueenss.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
