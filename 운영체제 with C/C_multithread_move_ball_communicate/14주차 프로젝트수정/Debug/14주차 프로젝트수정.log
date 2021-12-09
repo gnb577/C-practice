@@ -1,0 +1,7 @@
+﻿  14주차 bounce1.c
+C:\Users\LG\Documents\visual studio project\14주차 프로젝트수정\14주차 프로젝트수정\14주차 bounce1.c(85,18): warning C4101: 'pcds' :참조되지 않은 지역 변수입니다.
+C:\Users\LG\Documents\visual studio project\14주차 프로젝트수정\14주차 프로젝트수정\14주차 bounce1.c(114,67): warning C4113: 'DWORD (__stdcall *)()'은(는) 'LPTHREAD_START_ROUTINE'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\LG\Documents\visual studio project\14주차 프로젝트수정\14주차 프로젝트수정\14주차 bounce1.c(115,57): warning C4113: 'DWORD (__stdcall *)()'은(는) 'LPTHREAD_START_ROUTINE'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\LG\Documents\visual studio project\14주차 프로젝트수정\14주차 프로젝트수정\14주차 bounce1.c(252,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LG\Documents\visual studio project\14주차 프로젝트수정\14주차 프로젝트수정\14주차 bounce1.c(253,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  14주차 프로젝트수정.vcxproj -> C:\Users\LG\Documents\visual studio project\14주차 프로젝트수정\Debug\14주차 프로젝트수정.exe
