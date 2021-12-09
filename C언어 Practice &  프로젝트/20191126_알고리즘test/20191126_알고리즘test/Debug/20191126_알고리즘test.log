@@ -1,0 +1,5 @@
+﻿  알고리즘2번해보기.c
+C:\Users\LG\source\repos\20191126_알고리즘test\20191126_알고리즘test\알고리즘2번해보기.c(28,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\LG\source\repos\20191126_알고리즘test\20191126_알고리즘test\알고리즘2번해보기.c(19,7): warning C4101:  'alphabet' :참조되지 않은 지역 변수입니다.
+  20191126_알고리즘test.vcxproj -> C:\Users\LG\source\repos\20191126_알고리즘test\Debug\20191126_알고리즘test.exe
