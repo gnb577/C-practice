@@ -1,0 +1,2 @@
+﻿  dijkstra.c
+C:\Users\LG\source\repos\20191008_알고리즘2\20191008_알고리즘2\dijkstra.c(53,106): error C2106:  '=': 왼쪽 피연산자는 l-value이어야 합니다.
