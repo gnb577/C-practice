@@ -1,0 +1,3 @@
+﻿  dijkstra.c
+C:\Users\LG\source\repos\20191008_알고리즘\20191008_알고리즘\dijkstra.c(131,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+  20191008_알고리즘.vcxproj -> C:\Users\LG\source\repos\20191008_알고리즘\Debug\20191008_알고리즘.exe
