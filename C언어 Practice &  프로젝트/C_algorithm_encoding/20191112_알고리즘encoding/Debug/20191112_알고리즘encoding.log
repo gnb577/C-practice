@@ -1,0 +1,4 @@
+﻿  huff_practice.c
+C:\Users\LG\source\repos\20191112_알고리즘encoding\20191112_알고리즘encoding\huff_practice.c(19,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+  20191112_알고리즘encoding.vcxproj -> C:\Users\LG\source\repos\20191112_알고리즘encoding\Debug\20191112_알고리즘encoding.exe
